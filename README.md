@@ -32,4 +32,4 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **New thing(s) learned:** Today, I'm studying basics of JavaScript. It's good to brush up on my skills and going back to the basics.
 
-## **Thoughts:** Starting this challenge inspires me to become 1% better everyday.
+**Thoughts:** Starting this challenge inspires me to become 1% better everyday.
