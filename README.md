@@ -53,3 +53,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Our topic in java class is getting complex. I need to study in advance so I can catch up easily in class. I have to focus on this one first because school is my first priority. :)
 
 ---
+
+### Day 3: March 8, Wednesday
+
+**Today's Objectives**:
+
+- Continue Java Assignment2
+- Understand how write to file and read to file works.
+
+**Link to work:**
+
+- N/A
+
+**New thing(s) learned:** Today, I kinda understand how write to file works. I just need more practice to finally keep it in mind.
+
+**Thoughts:** Our assignment is a bit challenging, esp on the part where we read from file and use those data to create an array of vehicle classes.
+
+---
