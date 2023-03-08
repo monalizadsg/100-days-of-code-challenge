@@ -13,6 +13,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Goals
 
 - [x] Make a habit of coding and learn everyday
+- [x] Study for my program courses
 - [x] Add features on my budget app project for my portfolio
 - [x] Complete [FCC](https://www.freecodecamp.com/monadsg "FCC Profile") certification
 - [x] Prepare for internship/coop program
@@ -33,3 +34,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** Today, I'm studying basics of JavaScript. It's good to brush up on my skills and going back to the basics.
 
 **Thoughts:** Starting this challenge inspires me to become 1% better everyday.
+
+---
+
+### Day 2: March 7, Tuesday
+
+**Today's Objectives**:
+
+- Study Java File Input and Output
+- Start Java Assignment2
+
+**Link to work:**
+
+- N/A
+
+**New thing(s) learned:** Studying about file input and output. Learning how to write into a file and read a file using classes involved.
+
+**Thoughts:** Our topic in java class is getting complex. I need to study in advance so I can catch up easily in class. I have to focus on this one first because school is my first priority. :)
+
+---
