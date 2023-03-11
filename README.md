@@ -70,3 +70,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Our assignment is a bit challenging, esp on the part where we read from file and use those data to create an array of vehicle classes.
 
 ---
+
+### Day 4: March 9, Thursday
+
+**Today's Objectives**:
+
+- Continue JavaScript FCC
+- Study HTML for Quiz
+
+**Link to work:**
+
+- N/A
+
+**New thing(s) learned:** Today, I learned about string, array,functions, scope.
+
+**Thoughts:** Re-learning the concepts is way easier now than the first time I learned it. :) It's like a refresher.
+
+---
+
+### Day 5: March 10, Friday
+
+**Today's Objectives**:
+
+- Study HTML tables and forms for Multimedia Quiz 2
+- Practice exercises from the book
+
+**Link to work:**
+
+- [table exercises](https://github.com/monalizadsg/html-tables-exercise)
+
+**New thing(s) learned:** Today, I practice some of the exercises in our multimedia book. There are a lot of css properties and table elements that are new to me.
+
+**Thoughts:** I need more practice! I hope I can pass my quiz tomorrow. :D
+
+---
